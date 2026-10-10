@@ -1,5 +1,9 @@
 # The Rising Step — Forecasting Household Stair Accessibility in Ireland (2022–2050)
 
+<p align="center">
+  <img src="docs/images/hero.webp" width="100%" alt="Housing Accessibility: client consultancy for Age Friendly Ireland. Households affected projected from 16.94 percent in 2022 to 22.35 percent in 2050. Artwork from the portfolio.">
+</p>
+
 A live, interactive dashboard projecting how many Irish households will contain at least one
 person with stair-related mobility difficulty, from 2022 through 2050.
 
