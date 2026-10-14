@@ -1,9 +1,19 @@
 # The Rising Step — Forecasting Household Stair Accessibility in Ireland (2022–2050)
 
+<p align="center">
+  <img src="docs/images/hero.webp" width="100%" alt="Housing Accessibility: client consultancy for Age Friendly Ireland. Households affected projected from 16.94 percent in 2022 to 22.35 percent in 2050. Artwork from the portfolio.">
+</p>
+
 A live, interactive dashboard projecting how many Irish households will contain at least one
 person with stair-related mobility difficulty, from 2022 through 2050.
 
 **Live dashboard:** https://age-friendly-ireland.netlify.app/
+
+**Full project write-up** (client brief, method, policy benchmarking and recommendations): [housing-accessibility-ireland](https://github.com/basant-kumarr/housing-accessibility-ireland)
+
+<p align="center">
+  <img src="docs/images/dashboard.webp" width="100%" alt="Screenshot of The Rising Step dashboard. Headline: by 2050, more than one in five Irish households are projected to include someone experiencing stair-related mobility difficulty. Key figures: 22.35 percent of households, 580 thousand people, 66 percent growth since 2022, with a bar chart rising from 16.94 percent in 2022 to 22.35 percent in 2050.">
+</p>
 
 ## Project context
 
@@ -58,4 +68,5 @@ library) for zero dependency risk. No build step — `index.html` is the entire 
 
 ## Author
 
-**Basant Kumar** — MSc Business Analytics, Maynooth University
+**Basant Kumar** — MSc Business Analytics, Maynooth University ·
+[Portfolio](https://basant-kumar-portfoli.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/basantsingh-/) · [GitHub](https://github.com/basant-kumarr)
