@@ -69,4 +69,4 @@ library) for zero dependency risk. No build step — `index.html` is the entire 
 ## Author
 
 **Basant Kumar** — MSc Business Analytics, Maynooth University ·
-[Portfolio](https://basant-kumar-portfoli.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/basantsingh-/) · [GitHub](https://github.com/basant-kumarr)
+[Portfolio](https://basant-kumar.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/basantsingh-/) · [GitHub](https://github.com/basant-kumarr)
